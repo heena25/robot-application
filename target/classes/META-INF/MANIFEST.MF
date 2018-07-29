@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: robot-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sourabhaggarwal
+Implementation-Vendor-Id: com.robot.application
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/robot-application
+Created-By: Maven Integration for Eclipse
+
